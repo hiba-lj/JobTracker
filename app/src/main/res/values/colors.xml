@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales Material Design -->
+    <color name="primary_color">#6200EE</color>
+    <color name="primary_color_light">#F3E5F5</color>
+    <color name="primary_color_dark">#3700B3</color>
+
+    <color name="secondary_color">#03DAC6</color>
+    <color name="secondary_color_light">#E0F7FA</color>
+    <color name="secondary_color_dark">#018786</color>
+
+    <!-- Couleurs de base -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Couleurs de texte -->
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="hint_text">#BDBDBD</color>
+
+    <!-- Arrière-plans -->
+    <color name="light_gray_background">#FAFAFA</color>
+    <color name="dark_gray_background">#EEEEEE</color>
+
+    <!-- Couleurs de statut -->
+    <color name="status_pending">#FFA000</color>  <!-- Orange -->
+    <color name="status_accepted">#4CAF50</color> <!-- Vert -->
+    <color name="status_rejected">#F44336</color> <!-- Rouge -->
+
+    <!-- Couleurs utilitaires -->
+    <color name="red">#F44336</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#4CAF50</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="gray_dark">#616161</color>
+
+    <!-- Couleurs d'interface spécifiques -->
+    <color name="divider_color">#1F000000</color>
+    <color name="error_color">#B00020</color>
+</resources>

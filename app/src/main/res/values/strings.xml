@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="applications_list_description">Liste des candidatures</string>
+    <string name="no_applications_message">Aucune candidature trouvée</string>
+    <string name="add_application_description">Ajouter une nouvelle candidature</string>
+    <string name="app_name" />
+    <string name="register_button" />
+    <string name="phone_hint" />
+    <string name="register_title">Créer un compte</string>
+    <string name="first_name_hint">Prénom</string>
+    <string name="last_name_hint">Nom</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <!-- Textes d'accessibilité -->
+    <string name="register_button_desc">Bouton pour valider l\'inscription</string>
+    <string name="phone_field_desc">Champ pour entrer votre numéro de téléphone</string>
+    <string name="phone_input_desc">Entrez votre numéro de téléphone ici</string>
+    <string name="registration_success">Inscription réussie</string>
+    <string name="all_fields_required">Tous les champs sont obligatoires</string>
+    <string name="invalid_email">Email invalide</string>
+    <string name="password_too_short">Le mot de passe doit contenir au moins 6 caractères</string>
+</resources>
